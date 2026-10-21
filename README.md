@@ -1,10 +1,14 @@
 # 忧郁蓝调-录播小助手
 
+## ⚠️ 当前预览版启动错误，请暂停下载和使用
+
+2026-10-21：preview.1 在 Windows 实机启动后错误进入 API 登录页（file://:18010）。这是打包/启动缺陷，不是正常操作，也不需要另配服务器。正在修复，请等待修复版；下方旧版链接仅保留作追溯，不推荐使用。
+
 基于 [biliLive-tools 4.0.0](https://github.com/renmu123/biliLive-tools) 的非官方界面修改预览测试版。保留直播录制、看板、压制等原有功能入口。
 
-## 下载与启动
+## 旧版下载与启动说明（暂停使用）
 
-[下载 Windows 完整测试包（约 358 MB）](https://github.com/tntkr33/moody-blues-recorder/releases/download/v4.0.0-moody-preview.1/moody-blues-4.0.0-Windows-preview.zip)
+[旧版问题包，仅供追溯，请勿使用（约 358 MB）](https://github.com/tntkr33/moody-blues-recorder/releases/download/v4.0.0-moody-preview.1/moody-blues-4.0.0-Windows-preview.zip)
 
 1. 先退出正在运行的原版软件。
 2. 将完整 ZIP 解压到一个新文件夹。
